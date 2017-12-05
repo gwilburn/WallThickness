@@ -13,5 +13,7 @@ namespace WallThickness
     /// </summary>
     public partial class App : Application
     {
+    //
+    
     }
 }
